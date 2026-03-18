@@ -90,4 +90,4 @@ python3 bot.py
 
 ---
 
-Built by [@Georgia_Kapodistria](https://x.com/tzogirl)
+Built by [@tzogirl](https://x.com/tzogirl)
